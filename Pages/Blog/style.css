@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+
+.navbar{
+    background-color:#0B0B45;     /* navbar background-color*/
+    height: 100px;      /* increase height */
+}
+.navbar .nav-link{
+    color: white;         /*text color*/
+    text-align:right;         /* text right side shift*/
+}
+.btn{
+    border-radius: 40px;      
+}

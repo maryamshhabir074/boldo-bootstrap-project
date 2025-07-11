@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%S;
+  }
+
+.navbar{
+    background-color:#0B0B45;     /* navbar background-color*/
+    height: 100px;      /* increase height */
+}
+.navbar .nav-link{
+    color: white;         /*text color*/
+    text-align:right;         /* text right side shift*/
+}
+.btn{
+    border-radius: 40px;      
+}
+.nav-body{
+    background-image: url(../../assests/hero-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: #0B0B45;
+}
+#buy-template{
+    background-color: #73dd6dd5;
+}
+
+.enterprise-template{
+    background-color: #0B0B45;
+}
+.container-website{
+    background-color: #0B0B45;
+}
+
+      /*hero-section start  */
+  .hero-section {
+    background-image: url(../../assests/promo-bg.png);
+    background-color: #0B0B45;
+    color: white;
+    padding: 100px 20px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 2rem;
+    background-size: cover;
+    background-position: center;
+  }
+
+  .email-form {
+    max-width: 600px;
+    margin: 30px auto 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+  }
+
+  .email-form input {
+    flex: 1 1 250px;
+    min-width: 200px;
+    border-radius: 30px;
+    padding: 10px 20px;
+    border: none;
+  }
+
+  .email-form button {
+    border-radius: 30px;
+    padding: 10px 30px;
+    border: none;
+    white-space: nowrap;
+  }
+
+
+  .list-unstyled a{
+    text-decoration: none;
+    color: gray;
+  }
+     
+
+  
+
+
+
+
+
